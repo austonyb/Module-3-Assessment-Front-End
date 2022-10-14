@@ -64,3 +64,20 @@ footer {
 	align-items: flex-end;
 	justify-content: space-evenly;
 }
+
+footer {
+	display: flex;
+	justify-content: space-around;
+}
+
+.profile-button {
+	background-color: yellow;
+	border-radius: 15px;
+	border: dashed black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 24px;
+	margin: 10px;
+}
