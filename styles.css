@@ -81,3 +81,34 @@ footer {
 	font-size: 24px;
 	margin: 10px;
 }
+
+.neighborhood {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15px;
+}
+
+.map-and-such {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 30px;
+}
+
+#daybreak-pic {
+	border-radius: 15px;
+	height: 150px;
+	margin: 20px;
+}
+
+
+
+.restaurants {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+

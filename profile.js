@@ -2,6 +2,7 @@ const fvtColor = document.getElementById('color')
 const fvtPlace = document.getElementById('place')
 const fvtRitual = document.getElementById('ritual')
 
+
 const myFvtColor = () => {
     alert('My favorite color is blue.')
 }
@@ -17,3 +18,8 @@ const myFvtRitual = () => {
 fvtColor.addEventListener('click', myFvtColor)
 fvtPlace.addEventListener('click', myFvtPlace)
 fvtRitual.addEventListener('click', myFvtRitual)
+
+
+
+
+
